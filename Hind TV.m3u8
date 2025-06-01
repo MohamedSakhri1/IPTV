@@ -5,5 +5,9 @@ http://pal.alphatx.me:80/play/live.php?mac=00:1A:79:BB:FD:61&stream=1608071&exte
 http://pal.alphatx.me:80/play/live.php?mac=00:1A:79:BB:FD:61&stream=1479591&extension=ts&play_token=gwwdHadOo0
 #EXTINF:-1,Sky Sports F1 UHD
 http://pal.alphatx.me:80/play/live.php?mac=00:1A:79:BB:FD:61&stream=1471382&extension=ts&play_token=aC0Guzl6vK
+#EXTINF:-1,CANAL+ FHD
+http://pal.alphatx.me:80/play/live.php?mac=00:1A:79:BB:FD:61&stream=506635&extension=ts&play_token=dGs8laOhY2
+#EXTINF:-1,CANAL+ FOOT FHD
+http://pal.alphatx.me:80/play/live.php?mac=00:1A:79:BB:FD:61&stream=1002837&extension=ts&play_token=9Wno9zaZ7N
 
 
