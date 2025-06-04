@@ -29,4 +29,8 @@ http://pal.alphatx.me:80/play/live.php?mac=00:1A:79:BB:FD:61&stream=163610&exten
 http://pal.alphatx.me:80/play/live.php?mac=00:1A:79:BB:FD:61&stream=45251&extension=ts&play_token=xzisk13tRo
 #EXTINF:7667,MOVIE: Deadpool & Wolverine 4K UHD
 http://pal.alphatx.me:80/play/movie.php?mac=00:1A:79:BB:FD:61&stream=1660374.mkv&play_token=bAVdrBl7Za&type=movie
+#EXTINF:-1,ES La 1 UHD
+http://pal.alphatx.me:80/play/live.php?mac=00:1A:79:BB:FD:61&stream=1620282&extension=ts&play_token=8lncfHxd8Y
+#EXTINF:-1,FR TF1 FHD
+http://pal.alphatx.me:80/play/live.php?mac=00:1A:79:BB:FD:61&stream=1640384&extension=ts&play_token=09yt4BvVTq
 
