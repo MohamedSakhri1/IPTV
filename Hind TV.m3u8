@@ -32,5 +32,7 @@ http://pal.alphatx.me:80/play/movie.php?mac=00:1A:79:BB:FD:61&stream=1660374.mkv
 #EXTINF:-1,ES La 1 UHD
 http://pal.alphatx.me:80/play/live.php?mac=00:1A:79:BB:FD:61&stream=1620282&extension=ts&play_token=8lncfHxd8Y
 #EXTINF:-1,FR TF1 FHD
-http://pal.alphatx.me:80/play/live.php?mac=00:1A:79:BB:FD:61&stream=1640384&extension=ts&play_token=09yt4BvVTq
+http://pal.alphatx.me:80/play/live.php?mac=00:1A:79:BB:FD:61&stream=506638&extension=ts&play_token=ectOAv22Yq
+#EXTINF:-1,DIGI 4K
+http://pal.alphatx.me:80/play/live.php?mac=00:1A:79:BB:FD:61&stream=1632122&extension=ts&play_token=rMq10WVbvr
 
