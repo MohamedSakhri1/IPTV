@@ -1,9 +1,9 @@
 #EXTM3U
 #EXTINF:-1,Sky Sports Main Events UHD
 http://pal.alphatx.me:80/play/live.php?mac=00:1A:79:BB:FD:61&stream=1608071&extension=ts&play_token=YhyMK5kf5u
-#EXTINF:-1,TNT SPORTS ULTIMATE 4K
+#EXTINF:-1 tvg-id="bt-sport-4k",TNT SPORTS ULTIMATE 4K
 http://pal.alphatx.me:80/play/live.php?mac=00:1A:79:BB:FD:61&stream=1479591&extension=ts&play_token=e8CGgvhRZ5
-#EXTINF:-1,TNT SPORTS ULTIMATE 4K 2
+#EXTINF:-1 tvg-epgid="bt-sport-4k",TNT SPORTS ULTIMATE 4K 2
 http://pal.alphatx.me:80/play/live.php?mac=00:1A:79:BB:FD:61&stream=1595637&extension=ts&play_token=VKUs3h3tk0
 #EXTINF:-1,Sky Sports F1 UHD
 http://pal.alphatx.me:80/play/live.php?mac=00:1A:79:BB:FD:61&stream=1471382&extension=ts&play_token=aC0Guzl6vK
