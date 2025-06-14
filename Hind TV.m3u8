@@ -1,11 +1,39 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="skysportsf1.uk" tvg-name="SKY SPORTS F1 HD" tvg-logo="https://mirror.streamhubtv.ca:443/images/CSU8cZzVTxjnSna03jIbA0FfA_KkiP0ikDhCSGuRh2nzSyR4noadVyFLKgpKT8S3.png" group-title="UK | SPORTS",SKY SPORTS F1 HD
-http://hardcoremedia.xyz:80/jhvtloak/8516316998/117067
-#EXTINF:-1, Bein Sports News
-https://www.youtube.com/embed/dEmHyqMlclA?si=Od561ulP1Z9AFyGo&amp;controls=0
-#EXTINF:-1 tvg-id="NatGeoWild.fr" tvg-name="|FR| NATIONAL GEO WILD FHD" tvg-logo="http://infinity-logo.ddns.net/images/logo_channel/FR/nationalgeowild.png" group-title="FRANCE FHD | TV",|FR| NATIONAL GEO WILD FHD
-http://195.128.249.99:8080/2FirminoMarcalo1/wUvNEvWVGKcVN0A9/9758
-#EXTINF:-1 tvg-id="SuperSportMaximo1.za" tvg-name="DSTV:  SUPERSPORT MAXIMO 1" tvg-logo="https://cdn.freebiesupply.com/logos/large/2x/super-sport-logo-png-transparent.png" group-title="SUPERSPORTS",DSTV:  SUPERSPORT MAXIMO 1
-http://hardcoremedia.xyz:80/jhvtloak/8516316998/33422
-#EXTINF:-1 tvg-id="" tvg-name="FR | CANAL+ SPORT" tvg-logo="http://t1.gstatic.com/images?q=tbn:ANd9GcTqtmqOmPt0GlHiIgXtMl_c3_9rt55aLFGDV6HCOKaAVKgCK5PwI-zpBYNv" group-title="FRENCH",FR | CANAL+ SPORT
-http://hardcoremedia.xyz:80/jhvtloak/8516316998/9406
+#EXTINF:-1,Sky Sports Main Events UHD
+http://pal.alphatx.me:80/play/live.php?mac=00:1A:79:BB:FD:61&stream=1608071&extension=ts&play_token=YhyMK5kf5u
+#EXTINF:-1 tvg-id="bt-sport-4k",TNT SPORTS ULTIMATE 4K
+http://pal.alphatx.me:80/play/live.php?mac=00:1A:79:BB:FD:61&stream=1479591&extension=ts&play_token=e8CGgvhRZ5
+#EXTINF:-1 tvg-id="bt-sport-4k",TNT SPORTS ULTIMATE 4K 2
+http://pal.alphatx.me:80/play/live.php?mac=00:1A:79:BB:FD:61&stream=1595637&extension=ts&play_token=VKUs3h3tk0
+#EXTINF:-1 tvg-id="sky-sports-f1",Sky Sports F1 UHD
+http://pal.alphatx.me:80/play/live.php?mac=00:1A:79:BB:FD:61&stream=1471382&extension=ts&play_token=aC0Guzl6vK
+#EXTINF:-1,CANAL+ FHD
+http://pal.alphatx.me:80/play/live.php?mac=00:1A:79:BB:FD:61&stream=506635&extension=ts&play_token=dGs8laOhY2
+#EXTINF:-1 tvg-id="canal-pl-foot-fr",CANAL+ FOOT FHD
+http://pal.alphatx.me:80/play/live.php?mac=00:1A:79:BB:FD:61&stream=1002837&extension=ts&play_token=9Wno9zaZ7N
+#EXTINF:-1 tve-id="cbs-sports-network-us",CBS SPORTS GOLAZO Network FHD
+http://pal.alphatx.me:80/play/live.php?mac=00:1A:79:BB:FD:61&stream=1293199&extension=ts&play_token=4jpP7mpvMs
+#EXTINF:-1 tvg-id="bein-sport-1-fr",FR Bein Sports 1 FHD
+http://pal.alphatx.me:80/play/live.php?mac=00:1A:79:BB:FD:61&stream=526126&extension=ts&play_token=EMrToGIqmi
+#EXTINF:-1 tvg-id="bein-sport-2-fr",FR Bein Sports 2 FHD
+http://pal.alphatx.me:80/play/live.php?mac=00:1A:79:BB:FD:61&stream=526125&extension=ts&play_token=GKOKUshAcF
+#EXTINF:-1 tvg-id="bein-sport-3-fr",FR Bein Sports 3 FHD
+http://pal.alphatx.me:80/play/live.php?mac=00:1A:79:BB:FD:61&stream=506550&extension=ts&play_token=yuotp40D11
+#EXTINF:-1,UK Sky Sports 1 UHD
+http://pal.alphatx.me:80/play/live.php?mac=00:1A:79:BB:FD:61&stream=1608068&extension=ts&play_token=AifdNp81Wb
+#EXTINF:-1,UK Sky Sports 2 UHD
+http://pal.alphatx.me:80/play/live.php?mac=00:1A:79:BB:FD:61&stream=1608069&extension=ts&play_token=IWyGpe2jit
+#EXTINF:-1,Bein 4K
+http://pal.alphatx.me:80/play/live.php?mac=00:1A:79:BB:FD:61&stream=1500113&extension=ts&play_token=mtpFqZsEWj
+#EXTINF:-1 tvg-id="premier-sports-1-uk",UK PremierSport 1 FHD
+http://pal.alphatx.me:80/play/live.php?mac=00:1A:79:BB:FD:61&stream=163610&extension=ts&play_token=umsCEXYYDy
+#EXTINF:-1 tvg-id="premier-sports-2-uk",UK PremierSport 2 FHD
+http://pal.alphatx.me:80/play/live.php?mac=00:1A:79:BB:FD:61&stream=45251&extension=ts&play_token=xzisk13tRo
+#EXTINF:7667,MOVIE: Deadpool & Wolverine 4K UHD
+http://pal.alphatx.me:80/play/movie.php?mac=00:1A:79:BB:FD:61&stream=1660374.mkv&play_token=bAVdrBl7Za&type=movie
+#EXTINF:-1,ES La 1 UHD
+http://pal.alphatx.me:80/play/live.php?mac=00:1A:79:BB:FD:61&stream=1620282&extension=ts&play_token=8lncfHxd8Y
+#EXTINF:-1,FR TF1 FHD
+http://pal.alphatx.me:80/play/live.php?mac=00:1A:79:BB:FD:61&stream=506638&extension=ts&play_token=ectOAv22Yq
+#EXTINF:-1,DIGI 4K
+http://pal.alphatx.me:80/play/live.php?mac=00:1A:79:BB:FD:61&stream=1632122&extension=ts&play_token=rMq10WVbvr
