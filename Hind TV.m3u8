@@ -10,7 +10,7 @@ http://pal.alphatx.me:80/play/live.php?mac=00:1A:79:BB:FD:61&stream=1471382&exte
 #EXTINF:-1,CANAL+ FHD
 http://pal.alphatx.me:80/play/live.php?mac=00:1A:79:BB:FD:61&stream=506635&extension=ts&play_token=dGs8laOhY2
 #EXTINF:-1 tvg-id="canal-pl-foot-fr",CANAL+ FOOT FHD
-http://pal.alphatx.me:80/play/live.php?mac=00:1A:79:BB:FD:61&stream=1002837&extension=ts&play_token=9Wno9zaZ7N
+http://pal.alphatx.me:80/play/live.php?mac=00:1A:79:BB:FD:61&stream=1002837&extension=ts&play_token=IzbZ5oGeI6
 #EXTINF:-1 tve-id="cbs-sports-network-us",CBS SPORTS GOLAZO Network FHD
 http://pal.alphatx.me:80/play/live.php?mac=00:1A:79:BB:FD:61&stream=1293199&extension=ts&play_token=4jpP7mpvMs
 #EXTINF:-1 tvg-id="bein-sport-1-fr",FR Bein Sports 1 FHD
