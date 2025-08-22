@@ -1,0 +1,24 @@
+#EXTM3U
+#EXTINF:-1, Bein Sports Max 4 HD
+http://pal.alphatx.me:80/play/live.php?mac=00:1A:79:BB:FD:61&stream=507652&extension=ts&play_token=1AUWrhJVmI
+#EXTINF:-1, Bein Sports Max 5 HD
+http://pal.alphatx.me:80/play/live.php?mac=00:1A:79:BB:FD:61&stream=507651&extension=ts&play_token=6DTGRGBCWB
+#EXTINF:-1, Bein Sports Max 6 HD
+http://pal.alphatx.me:80/play/live.php?mac=00:1A:79:BB:FD:61&stream=507650&extension=ts&play_token=TsulqOrV8n
+#EXTINF:-1, Bein Sports Max 7 HD
+http://pal.alphatx.me:80/play/live.php?mac=00:1A:79:BB:FD:61&stream=507649&extension=ts&play_token=Hoqb0q15rz
+#EXTINF:-1, Bein Sports Max 8 HD
+http://pal.alphatx.me:80/play/live.php?mac=00:1A:79:BB:FD:61&stream=507648&extension=ts&play_token=dvnv9i9FJc
+#EXTINF:-1, Bein Sports Max 9 HD
+http://pal.alphatx.me:80/play/live.php?mac=00:1A:79:BB:FD:61&stream=507647&extension=ts&play_token=3ALShTncqX
+#EXTINF:-1, Bein Sports Max 10 HD
+http://pal.alphatx.me:80/play/live.php?mac=00:1A:79:BB:FD:61&stream=507646&extension=ts&play_token=w07wqJkdSq
+#EXTINF:-1, Canal+ Sport FHD
+http://pal.alphatx.me:80/play/live.php?mac=00:1A:79:BB:FD:61&stream=526130&extension=ts&play_token=8Lv7CNZXwz
+#EXTINF:-1, Canal+ Premier League FHD
+http://pal.alphatx.me:80/play/live.php?mac=00:1A:79:BB:FD:61&stream=506556&extension=ts&play_token=BOtM13B1JV
+#EXTINF:-1, Canal+ Foot FHD
+http://pal.alphatx.me:80/play/live.php?mac=00:1A:79:BB:FD:61&stream=1002837&extension=ts&play_token=owhYpWiaq0
+#EXTINF:-1, Canal+ FHD
+http://pal.alphatx.me:80/play/live.php?mac=00:1A:79:BB:FD:61&stream=526135&extension=ts&play_token=Fk2UBUPHot
+
