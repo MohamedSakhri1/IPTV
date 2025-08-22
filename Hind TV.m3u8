@@ -11,6 +11,8 @@ http://pal.alphatx.me:80/play/live.php?mac=00:1A:79:BB:FD:61&stream=1471382&exte
 http://pal.alphatx.me:80/play/live.php?mac=00:1A:79:BB:FD:61&stream=506635&extension=ts&play_token=dGs8laOhY2
 #EXTINF:-1 tvg-id="canal-pl-foot-fr",CANAL+ FOOT FHD
 http://pal.alphatx.me:80/play/live.php?mac=00:1A:79:BB:FD:61&stream=1002837&extension=ts&play_token=9Wno9zaZ7N
+#EXTINF:-1 tvg-id="canal-pl-foot-fr",CANAL+ EVENEMENT 4K
+http://pal.alphatx.me:80/play/live.php?mac=00:1A:79:BB:FD:61&stream=1774382&extension=ts&play_token=F5fBVGKEP9
 #EXTINF:-1 tve-id="cbs-sports-network-us",CBS SPORTS GOLAZO Network FHD
 http://pal.alphatx.me:80/play/live.php?mac=00:1A:79:BB:FD:61&stream=1293199&extension=ts&play_token=4jpP7mpvMs
 #EXTINF:-1 tvg-id="bein-sport-1-fr",FR Bein Sports 1 FHD
@@ -37,3 +39,7 @@ http://pal.alphatx.me:80/play/live.php?mac=00:1A:79:BB:FD:61&stream=1620282&exte
 http://pal.alphatx.me:80/play/live.php?mac=00:1A:79:BB:FD:61&stream=506638&extension=ts&play_token=ectOAv22Yq
 #EXTINF:-1,DIGI 4K
 http://pal.alphatx.me:80/play/live.php?mac=00:1A:79:BB:FD:61&stream=1632122&extension=ts&play_token=rMq10WVbvr
+#EXTINF:-1,V Sport Ultra HD
+http://pal.alphatx.me:80/play/live.php?mac=00:1A:79:BB:FD:61&stream=1632123&extension=ts&play_token=p6EM9Kg84A
+#EXTINF:-1,Nature 4K
+http://pal.alphatx.me:80/play/live.php?mac=00:1A:79:BB:FD:61&stream=1749219&extension=ts&play_token=D85mF95zod
