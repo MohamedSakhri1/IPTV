@@ -43,3 +43,9 @@ http://pal.alphatx.me:80/play/live.php?mac=00:1A:79:BB:FD:61&stream=1632122&exte
 http://pal.alphatx.me:80/play/live.php?mac=00:1A:79:BB:FD:61&stream=1632123&extension=ts&play_token=p6EM9Kg84A
 #EXTINF:-1,Nature 4K
 http://pal.alphatx.me:80/play/live.php?mac=00:1A:79:BB:FD:61&stream=1749219&extension=ts&play_token=D85mF95zod
+#EXTINF:-1 tvg-id="bein-sport-1",Bein Sports 1 FHD
+http://d.tvdark.eu:80/play/live.php?mac=00:1A:79:44:48:5d&stream=147140&extension=ts&play_token=baI8k34irZ
+#EXTINF:-1 tvg-id="bein-sport-2",Bein Sports 2 HD
+http://d.tvdark.eu:80/play/live.php?mac=00:1A:79:44:48:5d&stream=147141&extension=ts&play_token=G25Iv3sjmw
+#EXTINF:-1 tvg-id="bein-sport-3",Bein Sports 3 FHD
+http://d.tvdark.eu:80/play/live.php?mac=00:1A:79:44:48:5d&stream=147142&extension=ts&play_token=MmlIBE2FFu
