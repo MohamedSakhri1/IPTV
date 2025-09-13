@@ -49,3 +49,5 @@ http://d.tvdark.eu:80/play/live.php?mac=00:1A:79:44:48:5d&stream=147140&extensio
 http://d.tvdark.eu:80/play/live.php?mac=00:1A:79:44:48:5d&stream=147141&extension=ts&play_token=G25Iv3sjmw
 #EXTINF:-1 tvg-id="bein-sport-3",Bein Sports 3 FHD
 http://d.tvdark.eu:80/play/live.php?mac=00:1A:79:44:48:5d&stream=147142&extension=ts&play_token=MmlIBE2FFu
+#EXTINF:-1 tvg-id="bein-sport-3",Movistar+ LaLiga UHD
+http://line.dnsdns5.com/live/16336A/C47F50/1631453.ts
