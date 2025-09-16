@@ -37,7 +37,7 @@ http://185.243.7.141:80/play/live.php?mac=00:1A:79:7D:24:28&stream=1806582&exten
 http://185.243.7.141:80/play/live.php?mac=00:1A:79:7D:24:28&stream=1806581&extension=ts&play_token=sH3pTENADU
 #EXTINF:-1 ,Bein Sports 3 FHD
 http://185.243.7.141:80/play/live.php?mac=00:1A:79:9C:55:05&stream=1411381&extension=ts&play_token=1BZzkdOmY7
-#EXTINF:-1 http://185.243.7.141:80/play/live.php?mac=00:1A:79:7D:24:28&stream=1806581&extension=ts&play_token=sH3pTENADU",Movistar+ LaLiga UHD
+#EXTINF:-1 ,Movistar+ LaLiga UHD
 http://line.dnsdns5.com/live/16336A/C47F50/1631453.ts
 #EXTINF:-1 ,ZIGGO Sport UHD
 http://185.243.7.141:80/play/live.php?mac=00:1A:79:9C:55:05&stream=1481950&extension=ts&play_token=6uC6oEH4fL
