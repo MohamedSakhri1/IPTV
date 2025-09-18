@@ -26,6 +26,8 @@ http://185.243.7.141:80/play/live.php?mac=00:1A:79:9C:55:05&stream=526124&extens
 
 #EXTINF:-1,Bein 4K
 http://185.243.7.141:80/play/live.php?mac=00:1A:79:9C:55:05&stream=1500113&extension=ts&play_token=6IywZQShL1
+#EXTINF:-1,Bee: Bein 4K
+http://185.243.7.141:80/play/live.php?mac=00:1A:79:7D:24:28&stream=1851249&extension=ts&play_token=S1UnxNbwqS
 #EXTINF:-1 ,Bee: Bein Sports 1 FHD
 http://185.243.7.141:80/play/live.php?mac=00:1A:79:7D:24:28&stream=1806582&extension=ts&play_token=Hl3P9Sx4uT
 #EXTINF:-1 ,Bee: Bein Sports 2 FHD
